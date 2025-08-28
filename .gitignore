@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Cordova platforms and plugins (these can be rebuilt)
+platforms/
+plugins/
+
+# Cordova build outputs
+build/
+bin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
